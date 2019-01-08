@@ -260,6 +260,13 @@ class Sidebar extends React.Component {
                 icons={{ group: CalendarIcon, close: CloseIcon }}
                 filterName="month"
               /> */}
+              {/* <FilterSwitcher
+                onClick={this.onSwitch}
+                activeFilterGroup={activeFilterGroup}
+                appliedFIlters={appliedFilters}
+                icons={{ group: SearchIcon, close: CloseIcon }}
+                filterName="search"
+              /> */}
               <FilterSwitcher
                 onClick={this.onSwitch}
                 activeFilterGroup={activeFilterGroup}
