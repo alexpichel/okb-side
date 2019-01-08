@@ -253,13 +253,13 @@ class Sidebar extends React.Component {
               <h3>Filters »</h3>
             </div>
             <div className="switchers">
-              <FilterSwitcher
+              {/* <FilterSwitcher
                 onClick={this.onSwitch}
                 activeFilterGroup={activeFilterGroup}
                 appliedFilters={appliedFilters}
                 icons={{ group: CalendarIcon, close: CloseIcon }}
                 filterName="month"
-              />
+              /> */}
               <FilterSwitcher
                 onClick={this.onSwitch}
                 activeFilterGroup={activeFilterGroup}
