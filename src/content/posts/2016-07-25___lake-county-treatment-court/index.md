@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/lake-logo.png
 agencyid: "lake-cc"
 agency: "Lake County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

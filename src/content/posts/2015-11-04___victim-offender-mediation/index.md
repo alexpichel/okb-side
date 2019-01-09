@@ -4,7 +4,8 @@ date: "2015-11-04"
 cover: /assets/research.png
 logo: /assets/agency/minnesota.svg
 agency: "University of Minnesota - 2001"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Juveniles"
   - "Mediation"

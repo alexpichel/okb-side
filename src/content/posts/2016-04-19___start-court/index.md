@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Specialty Court"
   - "Supervision"

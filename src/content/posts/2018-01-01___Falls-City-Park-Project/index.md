@@ -3,7 +3,8 @@ title: "Falls City Park Project"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/polk-sheriff-logo2.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "CPTED"
   - "crime prevention"

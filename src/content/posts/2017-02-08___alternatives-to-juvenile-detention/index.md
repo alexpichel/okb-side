@@ -4,7 +4,8 @@ date: "2017-02-08"
 cover: /assets/research.png
 logo: /assets/agency/research.jpg
 agency: "Journal of Juvenile Justice - 2016"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Juveniles"
   - "Recidivism"

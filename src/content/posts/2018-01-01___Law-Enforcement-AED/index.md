@@ -3,7 +3,8 @@ title: "Law Enforcement AED Program"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/prineville-pd.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "medical response"
   - "technology"

@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/polk-sheriff-logo2.png
 agencyid: "polk-s"
 agency: "Polk County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Housing"
   - "Justice Reinvestment"

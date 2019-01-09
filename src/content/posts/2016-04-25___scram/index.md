@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
 agencyid: "medford-pd"
 agency: "Medford Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "Property Crime"

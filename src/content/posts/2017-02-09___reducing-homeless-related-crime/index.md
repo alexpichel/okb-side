@@ -3,7 +3,8 @@ title: "Reducing Homeless-Related Crime"
 date: "2017-02-09"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "crime prevention"
   - "transients"

@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
 agencyid: "keizer-pd"
 agency: "Keizer Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Drugs"
   - "Chronic Nuisance"

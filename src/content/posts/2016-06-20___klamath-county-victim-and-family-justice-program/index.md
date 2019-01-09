@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
 agencyid: "klamath-cc"
 agency: "Klamath County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Supervision"
   - "Victims"

@@ -3,7 +3,8 @@ title: "Portland Area Canine Therapy Teams"
 date: "2016-12-13"
 cover: /assets/correctional.png
 logo: /assets/agency/pactt.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "specialty courts"
   - "service animals"

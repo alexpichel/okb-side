@@ -3,7 +3,8 @@ title: "Building Partnerships to Address Unlawful Camping"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/dpsst.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "homeless"
   - "quality of life"

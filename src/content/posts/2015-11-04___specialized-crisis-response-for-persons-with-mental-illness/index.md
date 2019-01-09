@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/multnomah-logo.png
 agencyID: "multnomah-co"
 agency: "Multnomah County - 2001"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

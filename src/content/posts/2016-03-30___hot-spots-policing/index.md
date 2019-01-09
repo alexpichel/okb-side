@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/ppb.png
 author: "Sgt. Greg Stewart"
 agencyID: "ppb"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Crime Analysis"
   - "Crime Prevention"

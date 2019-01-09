@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/dallas-pd-logo.png
 agencyid: "dallas-pd"
 agency: "Dallas Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Drugs"
   - "Medical Response"

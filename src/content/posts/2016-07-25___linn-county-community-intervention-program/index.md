@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/linn-logo.png
 agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Alcohol"
   - "Drugs"

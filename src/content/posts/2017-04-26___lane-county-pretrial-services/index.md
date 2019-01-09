@@ -3,7 +3,8 @@ title: "Lane County Pretrial Services"
 date: "2017-04-26"
 cover: /assets/correctional.png
 logo: /assets/agency/lane-logo.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "pretrial release"
 subTitle: "Release assistance officers have judicial authority to make release decisions using a risk assessment tool that takes a number of factors into account, including danger to the community."

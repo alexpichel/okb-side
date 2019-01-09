@@ -7,7 +7,8 @@ cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agencyID: "ppb"
 agency: "National Institute of Justice - 1980"
-category: "Research"
+categories:
+  - "Research"
 tags:
     - "CPTED"
     - "Crime Prevention"

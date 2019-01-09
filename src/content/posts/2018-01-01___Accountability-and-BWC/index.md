@@ -3,7 +3,8 @@ title: "Accountability and BWC"
 date: "2018-01-01"
 cover: /assets/research.png
 logo: /assets/agency/
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "technology"
 subTitle: "The use of body-worn cameras reduced citizen complaints against police in a multisite randomized controlled trial."

@@ -3,7 +3,8 @@ title: "Reducing Chronic Nuisance Through Regulatory Policy"
 date: "2017-02-09"
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "chronic nuisance"
   - "crime prevention"

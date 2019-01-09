@@ -3,7 +3,8 @@ title: "Topic Summary - Recruitment for Public Safety Agencies"
 date: "2018-01-01"
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "policy"
   - "staffing"

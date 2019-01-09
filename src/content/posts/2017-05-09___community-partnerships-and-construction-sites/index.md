@@ -3,7 +3,8 @@ title: "Community Partnerships and Construction Sites"
 date: "2017-05-09"
 cover: /assets/policing.png
 logo: /assets/agency/portland-logo.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "crime prevention"
   - "property crime"

@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/umass.png
 agencyid: "ppb"
 agency: "University of Massachusetts - 2015"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Mental Illness"
   - "Oregon Research"

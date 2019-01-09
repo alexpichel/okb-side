@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/multnomah-logo.png
 agencyid: "mult-dcj"
 agency: "Multnomah County - 2006"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Corrections"
   - "Oregon Research"

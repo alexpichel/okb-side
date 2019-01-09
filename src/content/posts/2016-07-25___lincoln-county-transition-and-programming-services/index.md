@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/lincoln-logo.png
 agencyid: "lincoln-cc"
 agency: "Lincoln County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

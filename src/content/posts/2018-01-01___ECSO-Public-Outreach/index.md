@@ -3,7 +3,8 @@ title: "Emergency Communications of Southern Oregon Public Outreach"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/ecso-logo.jpg
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "community outreach"
   - "dispatch"

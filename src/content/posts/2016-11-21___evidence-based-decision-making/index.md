@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
 agencyid: "yamhill-cc"
 agency: "Yamhill County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pre-sentence"

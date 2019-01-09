@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/lane-logo.png
 agencyid: "lane-cc"
 agency: "Lane County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

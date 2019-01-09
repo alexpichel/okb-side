@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agencyid: "ppb"
 agency: "U.S. Department of Agriculture - 2012"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "CPTED"
   - "Crime Prevention"

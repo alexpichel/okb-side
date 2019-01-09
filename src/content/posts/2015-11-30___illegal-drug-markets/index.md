@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/NEU-logo.png
 agencyid: "ppb"
 agency: "Northeastern University - 2006"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Crime Prevention"
   - "Drugs"

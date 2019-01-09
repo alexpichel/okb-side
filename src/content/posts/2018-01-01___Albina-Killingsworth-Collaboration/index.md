@@ -3,7 +3,8 @@ title: "The Albina and Killingsworth Collaboration"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "chronic nuisance"
   - "quality of life"

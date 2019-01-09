@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/uo-logo.jpg
 agencyid: "medford-pd"
 agency: "University of Oregon - 2014"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Community Outreach"
   - "Crime Prevention"

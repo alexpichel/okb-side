@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
 agencyid: "npc"
 agency: NPC Research - 2009"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Corrections"
   - "Drugs"

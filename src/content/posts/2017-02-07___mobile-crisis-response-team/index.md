@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/marion-logo.png
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

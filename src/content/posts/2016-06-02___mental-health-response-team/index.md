@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/washington-logo.png
 agencyid: "washington-s"
 agency: "Washington County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention"
   - "Mental Illness"

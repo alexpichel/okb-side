@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 agencyid: "ppb"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Community Outreach"
   - "Crime Prevention"

@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/jackson-sheriff-logo.png
 agencyid: "jackson-s"
 agency: "Jackson County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Recruitment"
   - "Retention"

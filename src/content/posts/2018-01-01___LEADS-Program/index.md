@@ -3,7 +3,8 @@ title: "LEADS and Associated Services"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/marion-sheriff-logo.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "diversion"
   - "justice reinvestment"

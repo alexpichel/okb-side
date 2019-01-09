@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/marion-logo.png
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Alcohol"
   - "Drugs"

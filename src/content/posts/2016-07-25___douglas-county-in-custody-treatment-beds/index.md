@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/douglas-logo.png
 agencyid: "douglas-s"
 agency: "Douglas County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

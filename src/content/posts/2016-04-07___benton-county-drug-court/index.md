@@ -3,7 +3,8 @@ title: "Benton County Drug Court"
 date: "2016-04-07"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
-category: "Research"
+categories:
+  - "Research"
 agencyid: "npc"
 agency: "NPC Research - 2011"
 tags:

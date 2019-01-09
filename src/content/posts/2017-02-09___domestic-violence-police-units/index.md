@@ -3,7 +3,8 @@ title: "Domestic Violence Police Units"
 date: "2017-02-09"
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "domestic violence"
   - "family violence"

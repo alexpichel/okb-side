@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
 agencyid: "yamhill-dcj"
 agency: "Yamhill Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Pretrial Release"
   - "Technology"

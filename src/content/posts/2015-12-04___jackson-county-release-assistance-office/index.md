@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/jackson-sheriff-logo.png
 agencyid: "jackson-cj"
 agency: "Jackson County Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pretrial Release"

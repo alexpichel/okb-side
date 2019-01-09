@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/bend-pd.png
 agencyid: "bend-pd"
 agency: "Bend Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Chronic Nuisance"
   - "Crime Prevention"

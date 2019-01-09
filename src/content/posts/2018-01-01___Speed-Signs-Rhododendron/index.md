@@ -3,7 +3,8 @@ title: "Speeds Signs on Rhododendron Drive"
 date: "2017-06-01"
 cover: /assets/policing.png
 logo: /assets/agency/florence-pd-logo.jpg
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "technology"
   - "traffic safety"

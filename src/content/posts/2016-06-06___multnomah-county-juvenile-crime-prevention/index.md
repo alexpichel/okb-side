@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
 agencyid: "npc"
 agency: "NPC Research - 2015"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Crime Prevention"
   - "Juveniles"

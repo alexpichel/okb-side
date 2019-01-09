@@ -5,7 +5,8 @@ cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2000"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Juveniles"
   - "Mediation"

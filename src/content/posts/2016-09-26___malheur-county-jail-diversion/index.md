@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/malheur-logo.png
 agencyid: "malheur-s"
 agency: "Malheur County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

@@ -3,7 +3,8 @@ title: "Family Sentencing Alternative Program"
 date: "2018-01-01"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-sheriff-logo.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "specialized caseload"
 subTitle: "In an effort to reduce the traumatic effects that the incarceration of a parent can have on children, other family members, and caregivers, FSAP provides wraparound treatment, mentoring, and employment services to address the drivers of criminal conduct."

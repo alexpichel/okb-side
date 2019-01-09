@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/benton-logo.png
 agencyid: "benton-s"
 agency: "Benton County Sheriff's Office"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

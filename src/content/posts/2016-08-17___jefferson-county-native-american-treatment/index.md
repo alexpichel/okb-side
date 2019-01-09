@@ -5,7 +5,8 @@ cover: /assets/correctional.png
 logo: /assets/agency/jefferson-logo.png
 agencyid: "jefferson-cc"
 agency: "Jefferson County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Alcohol"
   - "Drugs"

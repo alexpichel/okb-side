@@ -5,7 +5,8 @@ cover: /assets/policing.png
 logo: /assets/agency/multnomah-sheriff-logo.png
 agencyid: "mult-s"
 agency: "Multnomah County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Search and Rescue"
   - "Training"

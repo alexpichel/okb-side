@@ -3,7 +3,8 @@ title: "Deschutes County Crisis Intervention Team"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/deschutes-sheriff-logo.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "CIT"
   - "crisis intervention"

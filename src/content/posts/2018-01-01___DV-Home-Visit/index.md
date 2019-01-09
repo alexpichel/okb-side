@@ -3,7 +3,8 @@ title: Domestic Violence Home Visit Intervention
 date: "2018-01-01"
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "family violence"
   - "domestic violence"
