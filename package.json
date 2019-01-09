@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-kit",
-  "description": "A set of starters for Gatsby.js v.2",
+  "name": "oregon-knowledge-bank",
+  "description": "A new okb site beta.",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
