@@ -9,4 +9,4 @@ The Oregon Knowledge Bank (OKB) is a resource for and created by the public safe
 
 The OKB strives to be the go-to resource for public safety practitioners statewide for evidence-based practices and problem-solving inspiration.
 
-### [About](/about) | [Contact](/contact) | [Request Research](/request) | [Submit Program](/submit)
+### [About](/about) | [Contact](/contact) | [Resources](/resources) | [Request Research](/request) | [Submit Program](/submit)
