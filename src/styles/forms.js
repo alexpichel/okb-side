@@ -49,7 +49,7 @@ const bodytext = css`
   }
 
   label {
-    color: #fff;
+    color: #333;
     display: block;
     font-size: .8em;
     font-weight: 600;
