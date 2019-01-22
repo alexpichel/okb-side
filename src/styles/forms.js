@@ -6,7 +6,6 @@ const mq = facepaint(breakpoints.map(bp => `@media (min-width: ${bp}px)`));
 
 const bodytext = css`
   margin-bottom: 50px;
-  min-height: 40vh;
 
   p,
   ul,
