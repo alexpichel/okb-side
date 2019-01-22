@@ -79,7 +79,7 @@ form>.actions {
 }
 
 label {
-    color: #fff;
+    color: #333;
     display: block;
     font-size: .8em;
     font-weight: 600;
@@ -109,8 +109,8 @@ input[type=email]:invalid,input[type=password]:invalid,input[type=search]:invali
 }
 
 input[type=email]:focus,input[type=password]:focus,input[type=search]:focus,input[type=tel]:focus,input[type=text]:focus,input[type=url]:focus,select:focus,textarea:focus {
-    border-color: #9bf1ff;
-    box-shadow: 0 0 0 2px #9bf1ff
+    border-color: #FFA500;
+    box-shadow: 0 0 0 2px #FFA500
 }
 
 .select-wrapper {
