@@ -16,7 +16,7 @@ const Request = props => {
         <div className="inner">
           <section>
               <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
-                  <div className="field half bot">
+                  <div className="field bot">
                       <label htmlFor="bot-field"></label>
                       <input type="hidden" name="bot-field" id="bot-field" />
                   </div>

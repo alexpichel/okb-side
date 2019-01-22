@@ -57,7 +57,7 @@ const bodytext = css`
     text-transform: uppercase;
   }
 
-  bot {
+  form .field.bot {
     display: none;
   }
 
