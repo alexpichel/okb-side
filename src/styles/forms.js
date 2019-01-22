@@ -30,6 +30,50 @@ const bodytext = css`
     font-weight: 700;
   }
 
+  form,form .field {
+    margin: 0 0 2em;
+  }
+
+  form .field.half {
+    float: left;
+    padding: 0 0 0 1em;
+    width: 50%;
+  }
+
+  form .field.half.first {
+    padding: 0 1em 0 0;
+  }
+
+  form>.actions {
+    margin: 2.5em 0 0!important;
+  }
+
+  label {
+    color: #fff;
+    display: block;
+    font-size: .8em;
+    font-weight: 600;
+    letter-spacing: .25em;
+    margin: 0 0 1em;
+    text-transform: uppercase;
+  }
+
+  input[type=email],input[type=password],input[type=search],input[type=tel],input[type=text],input[type=url],select,textarea {
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(212,212,255,.035);
+    border: none;
+    border-radius: 0;
+    color: inherit;
+    display: block;
+    outline: 0;
+    padding: 0 1em;
+    text-decoration: none;
+    width: 100%;
+  }
+
   figure {
     margin: calc(var(--spaceXL) * 2) auto;
     max-width: 1023px;
