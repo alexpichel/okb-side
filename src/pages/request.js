@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 
 import Article from '../components/Article';
 import Bodytext from '../components/Bodytext';
+import Request from '../components/Request';
 import Footer from '../components/Footer';
 import Heading from '../components/Heading';
 import Seo from '../components/Seo';
@@ -13,7 +14,7 @@ import config from 'content/meta/config';
 const NotFoundPage = props => {
   const {
     data: {
-      notFound: { html: notFoundHTML },
+      notFound: { html: requestHTML },
       footerLinks: { html: footerLinksHTML },
       copyright: { html: copyrightHTML },
     },
@@ -41,8 +42,16 @@ const NotFoundPage = props => {
               })
             }
           >
-            <Heading title="NOT FOUND" />
-            <Bodytext html={notFoundHTML} />
+            {/* <Heading special={true}>
+              <img src={logo} alt={`${title} ${subTitle}`} />
+              <h1>
+                <small>{preTitle}</small>
+                {title}
+                <span>{subTitle}</span>
+              </h1>
+            </Heading>
+            <Bodytext html={requestHTML} /> */}
+            <Request />
           </Article>
         )}
       </ContextConsumer>
@@ -63,7 +72,7 @@ export default NotFoundPage;
 export const query = graphql`
   query {
     notFound: markdownRemark(
-      fileAbsolutePath: { regex: "/content/parts/notFound/" }
+      fileAbsolutePath: { regex: "/content/parts/request/" }
     ) {
       html
     }

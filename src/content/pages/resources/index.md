@@ -5,7 +5,7 @@ categories: ['main']
 
 ## OREGON-BASED RESOURCES
 
-* [DPSST Criminal Justice Researcher](mailto:annie.rexford@state.or.us?subject=Project%20Research%20Assistance%20Request) -Topic summaries created upon request
+* [DPSST Criminal Justice Researcher](mailto:annie.rexford@state.or.us?subject=Project%20Research%20Assistance%20Request) - Topic summaries created upon request
 * [Criminal Justice Commission](http://www.oregon.gov/cjc/Pages/index.aspx) - Data Dashboards
 * [Criminal Justice Policy Research Institute](http://www.pdx.edu/cjpri/cjpri_research) - Portland State University
 * [Oregon Prospector](http://www.oregonprospector.com/) - General community data by the State of Oregon
