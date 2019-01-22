@@ -11,10 +11,10 @@ import ContextConsumer from '../store/Context';
 
 import config from 'content/meta/config';
 
-const NotFoundPage = props => {
+const RequestPage = props => {
   const {
     data: {
-      notFound: { html: requestHTML },
+      request: { html: requestHTML },
       footerLinks: { html: footerLinksHTML },
       copyright: { html: copyrightHTML },
     },
@@ -42,15 +42,8 @@ const NotFoundPage = props => {
               })
             }
           >
-            {/* <Heading special={true}>
-              <img src={logo} alt={`${title} ${subTitle}`} />
-              <h1>
-                <small>{preTitle}</small>
-                {title}
-                <span>{subTitle}</span>
-              </h1>
-            </Heading>
-            <Bodytext html={requestHTML} /> */}
+            <Heading title="REQUEST" />
+            <Bodytext html={requestHTML} />
             <Request />
           </Article>
         )}
@@ -67,11 +60,11 @@ const NotFoundPage = props => {
   );
 };
 
-export default NotFoundPage;
+export default RequestPage;
 
 export const query = graphql`
   query {
-    notFound: markdownRemark(
+    request: markdownRemark(
       fileAbsolutePath: { regex: "/content/parts/request/" }
     ) {
       html
