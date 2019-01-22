@@ -5,7 +5,10 @@ const Request = (props) => (
         <div className="inner">
             <section>
                 <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
-                    <input type="hidden" name="bot-field" />
+                    <div className="field half">
+                        <label htmlFor="bot-field">Don't fill this out</label>
+                        <input type="hidden" name="bot-field" id="bot-field" />
+                    </div>
                     <div className="field half first">
                         <label htmlFor="name">Name</label>
                         <input type="text" name="name" id="name" />
