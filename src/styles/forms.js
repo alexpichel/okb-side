@@ -130,6 +130,23 @@ margin-bottom: 50px;
         }
       }
     }
+    field {
+      line-height: 1.6;
+      padding: 0 var(--spaceXL) var(--spaceXL);
+
+      &:first-child {
+        text-indent: 1em;
+
+        &:before {
+          content: open-quote;
+          color: var(--quoteColor);
+          position: absolute;
+          font-size: 3em;
+          transform: translate(-1em, -0.3em);
+        }
+      }
+    }
+
     p {
       line-height: 1.6;
       padding: 0 var(--spaceXL) var(--spaceXL);
