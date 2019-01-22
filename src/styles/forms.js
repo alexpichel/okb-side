@@ -57,6 +57,10 @@ const bodytext = css`
     text-transform: uppercase;
   }
 
+  bot {
+    display: none;
+  }
+
   input[type=email],input[type=password],input[type=search],input[type=tel],input[type=text],input[type=url],select,textarea {
     -moz-appearance: none;
     -ms-appearance: none;
