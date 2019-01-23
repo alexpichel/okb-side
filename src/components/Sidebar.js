@@ -319,7 +319,7 @@ class Sidebar extends React.Component {
                       {title}
                       <small>
                         <CalendarIcon />
-                        {format(itemDate, 'MMMM D, YYYY')}
+                        {format(itemDate, 'MMMM YYYY')}
                       </small>
                     </Link>
                   </li>

@@ -36,7 +36,7 @@ const NextPrev = props => {
         <Link to={prevSlug} className="prev">
           {PrevIcon && <PrevIcon />}
           <p>
-            {prevTitle} <time>{format(prevDate, 'dddd, MMMM D, YYYY')}</time>
+            {prevTitle} <time>{format(prevDate, 'MMMM YYYY')}</time>
           </p>
         </Link>
       )}
@@ -44,7 +44,7 @@ const NextPrev = props => {
         <Link to={nextSlug} className="next">
           {NextIcon && <NextIcon />}
           <p>
-            {nextTitle} <time>{format(nextDate, 'dddd, MMMM D, YYYY')}</time>
+            {nextTitle} <time>{format(nextDate, 'MMMM YYYY')}</time>
           </p>
         </Link>
       )}

@@ -29,7 +29,7 @@ const List = props => {
                   {`${dayjs(dateTimeString).format('dddd')} at ${dayjs(
                     dateTimeString
                   ).format('h:mm a')}, ${dayjs(dateTimeString).format(
-                    'MMMM, YYYY'
+                    'MMMM YYYY'
                   )}`}
                 </time>
                 {title}
