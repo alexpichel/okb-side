@@ -107,7 +107,7 @@ class Sidebar extends React.Component {
   onSwitch = e => {
     const filterName = e.currentTarget.getAttribute('data-filter-name');
 
-    if (this.state.activeFilterGroup != filterName) {
+    if (this.state.activeFilterGroup !== filterName) {
       this.setState(state => {
         return { activeFilterGroup: filterName };
       });
