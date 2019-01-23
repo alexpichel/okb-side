@@ -24,7 +24,7 @@ const Meta = props => {
   return (
     <p className={cx(themeStyle, customStyle)}>
       <span>
-        {CalendarIcon && <CalendarIcon />} {format(date, 'MMMM D, YYYY')}
+        {CalendarIcon && <CalendarIcon />} {format(date, 'MMMM YYYY')}
       </span>
       {categories && (
         <span>
