@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { cx } from 'emotion';
-import { Link, navigate } from 'gatsby';
+import { Link, navigate, graphql, StaticQuery } from 'gatsby';
 import parse from 'date-fns/parse';
 import format from 'date-fns/format';
 
@@ -223,6 +223,7 @@ class Sidebar extends React.Component {
       customStyle = '',
       title,
       subTitle = '',
+      data,
       icons: {
         calendar: CalendarIcon,
         category: CategoryIcon,
@@ -285,6 +286,16 @@ class Sidebar extends React.Component {
               />
             </div>
           </div>
+
+          <StaticQuery
+            query={graphql`
+              query SearchIndexQuery {
+                siteSearchIndex {
+                    index
+                }
+              }
+            `}
+          />
 
           <FilterWidget
             items={this.state[`${activeFilterGroup}List`]}
