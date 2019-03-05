@@ -8,6 +8,7 @@ import format from 'date-fns/format';
 import FilterWidget from './FilterWidget';
 import FilterInfo from './FilterInfo';
 import FilterSwitcher from './FilterSwitcher';
+import SearchBox from '../SearchBox';
 
 import style from '../styles/sidebar';
 
@@ -249,6 +250,7 @@ class Sidebar extends React.Component {
               <h3>{title}</h3>
               <p>{subTitle}</p>
             </Link>
+            <SearchBox searchIndex={data.siteSearchIndex.index} />
             <div className="tip">
               <h3>Filters »</h3>
             </div>
